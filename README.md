@@ -1,1 +1,1 @@
-<p align="center">http://lauchschwert.xyz</p>
+<p align="center">https://lauchschwert.xyz</p>
