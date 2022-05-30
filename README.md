@@ -2,7 +2,7 @@
       <p align="center"> 
          <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=/ width="350" height="350"/> 
       </p>
-      <p align="center">Good friend of anditv21 - https://github.com/anditv21
+      <p align="center">Good friend of anditv21 - https://github.com/anditv21 - https://anditv.it
 </center>
 <p align="center"><br><b>https://lauchschwert.xyz</B></p><br>
 <p align="center">Hi 🖖 My name is Niclas, I'm Austrian with an austrian citizenship!<br> Under the stupid guys of us:<br> <B>I BIN A ÖSTERREICHER!!!</B>
