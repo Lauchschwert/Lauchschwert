@@ -1,6 +1,6 @@
 <center>
       <p align="center"> 
-         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=655/ width="350" height="350"/> 
+         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=/ width="350" height="350"/> 
       </p>
       <p align="center">Good friend of anditv21 - https://github.com/anditv21
 </center>
