@@ -5,7 +5,7 @@
    <p align="center">Good friend of anditv21 - https://github.com/anditv21 - https://anditv.it
       <br>
       <br>
-      - 🔭 I’m currently working on <a href="https://github.com/Lauchschwert/Lauchbot">Lauchbot</a>
+      - 🔭 I’m currently working on <a href="https://github.com/Lauchschwert/Lauchbot">Lauchbot</a> with <a href="https://github.com/anditv21">anditv21</a>
 </center>
 <p align="center"><br><b>https://lauchschwert.xyz</B></p>
 <br>
