@@ -1,5 +1,7 @@
 <center>
-   <p align="center"> 
+   <p align="center">
+      <img src=https://activity-graph.herokuapp.com/graph?username=Lauchschwert&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true/
+      <br>
       <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=/ width="350" height="350"/> 
    </p>
    <p align="center">Good friend of anditv21 - https://github.com/anditv21 - https://anditv.it
