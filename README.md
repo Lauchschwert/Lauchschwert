@@ -5,7 +5,7 @@
       <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=/ width="350" height="350"/> 
    </p>
    <img></img>
-   <p align="center">Good friend of anditv21 - https://github.com/anditv21 - https://anditv.it
+   <p align="center">Good friend of <a href="https://github.com/anditv21">anditv21</a> - https://anditv.it
       <br>
       <br>
       - 🔭 I’m currently working on <a href="https://github.com/Lauchschwert/Lauchbot">Lauchbot</a> with <a href="https://github.com/anditv21">anditv21</a>
