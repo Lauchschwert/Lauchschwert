@@ -1,9 +1,11 @@
 <center>
    <p align="center">
       <br>
-      <img src=https://github-readme-activity-graph.cyclic.app/graph?username=Lauchschwert&theme=merko width="1000" height="350"
+      <img src=https://github-readme-activity-graph.cyclic.app/graph?username=Lauchschwert&theme=merko width="1000" height="350"/>
       <br>
       <img src=https://github-readme-stats.vercel.app/api?username=Lauchschwert&show_icons=true&theme=merko/>
+      <br>
+      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&theme=dark/>
    </p>
    <p align="center">Good friend of <a href="https://github.com/anditv21">anditv21</a> - https://anditv.it
       <br>
