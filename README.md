@@ -3,9 +3,9 @@
       <br>
       <img src=https://github-readme-activity-graph.cyclic.app/graph?username=Lauchschwert&theme=merko width="1000" height="350"/>
       <br>
-      <img src=https://github-readme-stats.vercel.app/api?username=Lauchschwert&show_icons=true&theme=merko/>
+<img src=https://github-readme-stats.vercel.app/api?username=Lauchschwert&show_icons=true&include_all_commits=true&count_private=true&theme=merko height="180em"> 
       <br>
-      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&theme=dark/>
+      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&layout=compact&text_color=daf7dc&theme=merko />
    </p>
    <p align="center">Good friend of <a href="https://github.com/anditv21">anditv21</a> - https://anditv.it
       <br>
