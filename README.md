@@ -14,6 +14,9 @@
 </center>
 <p align="center"><br><b>https://lauchschwert.xyz</B></p>
 <br>
-<p align="center">Hi 🖖 My name is Niclas, I'm coding when I want to and have the motivation to.
-   <br><br><B>🍕 Favourite Food:</B><br> Schnitzel<br><br><B>🎮 Favourite games:</B><br> Switching, but at the moment, War Thunder, Osu!, The Crew 2<br><b><br>Coding - Languages:</B><br>C#, HTML, CSS, PHP<br><br><b>Osu!-Profile:</B><br>https://osu.ppy.sh/users/21408789<br><br><img src=Pictures/ApplicationFrameHost_3Y8fB3doMX.png>
+<p align="center">
+Hi 🖖 My name is Niclas, I'm coding when I want to and have the motivation to.<br><br><B>
+🍕 Favourite Food:</B><br> Schnitzel<br><br><B>
+🎮 Favourite games:</B><br> Switching, but at the moment, War Thunder, Osu!, The Crew 2<br><b><br>
+Coding - Languages:</B><br>C#, HTML, CSS, PHP
 </p>
