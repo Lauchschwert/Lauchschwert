@@ -2,7 +2,7 @@
    <p align="center">
       <img src=https://activity-graph.herokuapp.com/graph?username=Lauchschwert&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true/
       <br>
-      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515&var=/ width="350" height="350"/> 
+      <img src=[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?Lauchschwert=Ashutosh00710&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph) width="350" height="350"/> 
    </p>
    <img></img>
    <p align="center">Good friend of <a href="https://github.com/anditv21">anditv21</a> - https://anditv.it
