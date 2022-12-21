@@ -10,7 +10,7 @@
    <p align="center">Good friend of <a href="https://github.com/anditv21">anditv21</a> - https://anditv.it
       <br>
       <br>
-      - 🔭 I'll be continuing my <a href="https://github.com/Lauchschwert/SimpleCalculator">Simple Calculator</a> in a while some new features.
+      - 🔭 I'll be continuing my <a href="https://github.com/Lauchschwert/SimpleCalculator">Simple Calculator</a> in a while with some new features and an User-friendly UI.
 </center>
 <p align="center"><br><b>https://lauchschwert.xyz</B></p>
 <br>
