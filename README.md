@@ -9,8 +9,9 @@
    </p>
    <p align="center">Good friend of <a href="https://github.com/anditv21">anditv21</a> - https://anditv.it
       <br>
+   <p align="center">Webdev</p>
       <br>
-      - 🔭 I'll be continuing my <a href="https://github.com/Lauchschwert/SimpleCalculator">Simple Calculator</a> in a while with some new features and an User-friendly UI. Also I'm working on a Website with <a href="https://github.com/Fraggle030">Fraggle030</a>
+      - 🔭 I'll be continuing my <a href="https://github.com/Lauchschwert/SimpleCalculator">Simple Calculator</a> in a while with some new features and an User-friendly UI. Also I'm working on a Website with <a href="https://github.com/Fraggle030"><p align="center">Fraggle030</p></a>
 </center>
 <p align="center"><br><b>https://lauchschwert.xyz</B></p>
 <br>
