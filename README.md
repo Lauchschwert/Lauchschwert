@@ -1,6 +1,9 @@
 <center>
    <p align="center">
       <br>
+      <img src="https://github.com/Lauchschwert/Lauchschwert/raw/main/Pictures/ezgif.com-gif-maker%20(1).gif" display="flex" width="256" height="256"><img src="https://github.com/Lauchschwert/Lauchschwert/raw/main/Pictures/ezgif.com-gif-maker.gif" width="256" height="256">
+      <br>
+      <br>
       <img src=https://github-readme-activity-graph.cyclic.app/graph?username=Lauchschwert&theme=merko width="1000" height="350"/>
       <br>
 <img src=https://github-readme-stats.vercel.app/api?username=Lauchschwert&show_icons=true&include_all_commits=true&count_private=true&theme=merko height="180em"> 
