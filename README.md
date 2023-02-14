@@ -3,6 +3,8 @@
       <br>
       <img src="https://github.com/Lauchschwert/Lauchschwert/raw/main/Pictures/ezgif.com-gif-maker%20(1).gif" display="flex" width="256" height="256"><img src="https://github.com/Lauchschwert/Lauchschwert/raw/main/Pictures/ezgif.com-gif-maker.gif" width="256" height="256">
       <br>
+      <img src="https://lanyard.cnrad.dev/api/771670074405945375?bg=0d1117">
+      <br>
       <br>
       <img src=https://github-readme-activity-graph.cyclic.app/graph?username=Lauchschwert&theme=merko width="1000" height="350"/>
       <br>
