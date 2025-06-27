@@ -6,7 +6,7 @@
       <img src="https://lanyard.cnrad.dev/api/771670074405945375?bg=0d1117">
       <br>
       <br>
-      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lauchschwert&bg_color=1c1c1c&color=cf47e1&line=009dff&point=ff00dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lauchschwert&bg_color=1c1c1c&color=cf47e1&line=009dff&point=ff00dd&area=true&hide_border=true">
       <br>
       <img src=https://github-readme-stats.vercel.app/api?username=Lauchschwert&show_icons=true&include_all_commits=true&count_private=true&theme=dracula height="180em"> 
       <br>
