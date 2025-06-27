@@ -6,19 +6,17 @@
       <img src="https://lanyard.cnrad.dev/api/771670074405945375?bg=0d1117">
       <br>
       <br>
-      <img src=https://github-readme-activity-graph.cyclic.app/graph?username=Lauchschwert&theme=merko width="1000" height="350"/>
+      [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lauchschwert&bg_color=1c1c1c&color=cf47e1&line=009dff&point=ff00dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
       <br>
-<img src=https://github-readme-stats.vercel.app/api?username=Lauchschwert&show_icons=true&include_all_commits=true&count_private=true&theme=dracula height="180em"> 
+      <img src=https://github-readme-stats.vercel.app/api?username=Lauchschwert&show_icons=true&include_all_commits=true&count_private=true&theme=dracula height="180em"> 
       <br>
-      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&layout=compact&text_color=daf7dc&theme=merko />
+      <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Lauchschwert&layout=compact&text_color=daf7dc&theme=dracula />
    </p>
    <p align="center">Good friend of <a href="https://github.com/anditv21">anditv21</a> - https://anditv.it
       <br>
    <p align="center">Webdev</p>
       <br>
-      - 🔭 I'll be continuing my <a href="https://github.com/Lauchschwert/SimpleCalculator">Simple Calculator</a> in a while with some new features and an User-friendly UI. Also I'm working on a Website with <a href="https://github.com/Fraggle030"><p align="center">Fraggle030</p></a>
 </center>
-<p align="center"><br><b>https://lauchschwert.xyz</B></p>
 <br>
 <p align="center">
 Hi 🖖 My name is Niclas, I'm coding when I want to and have the motivation to.<br><br><B>
